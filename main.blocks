@@ -1,0 +1,31 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_button_event" id="h=x-70(KIfPa(qArm,KZ" x="0" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_print_message" id="]g2}}qK~Sz7`7$D)NolE"><value name="text"><shadow type="text" id="i-3^~(H^8V__kt*V?AWH"><field name="TEXT">Qosmo Year 6 Seiji</field></shadow></value><next><block type="music_playable_play" id="c3ZW%h}ZLAqG_s)BMRk+"><field name="playbackMode">music.PlaybackMode.LoopingInBackground</field><value name="toPlay"><shadow type="music_string_playable" id=".9)f#~W=,RcLRVD|9{lZ"><value name="melody"><shadow type="melody_editor" id="g]Z-.tbw#D@?%A;EJs)a"><field name="melody">"E B C5 A B G A F "</field></shadow></value><value name="bpm"><shadow type="math_number_minmax" id="4q2c=IDU|vW15Vr}0f=V"><mutation min="40" max="500" label="Bpm" precision="0"></mutation><field name="SLIDER">199</field></shadow></value></shadow></value><next><block type="controls_repeat_ext" id="i0cGb[wuBtC}E5;gtQHE"><value name="TIMES"><shadow type="math_whole_number" id="DLP7Xo;yi6pLlG@@GP.h"><field name="NUM">1e+22</field></shadow></value><statement name="DO"><block type="device_show_leds" id="xx7iQYteYtB73]ij%Xl?"><field name="LEDS">`
+        . . # . # 
+        . # # # . 
+        # . # . . 
+        . . # . . 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="S~BVi|,.|0XW:}Nd]]sb"><field name="LEDS">`
+        # . # . . 
+        . # # # . 
+        . . # . # 
+        . . # . . 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="4*17INs66g?]pf}fN0tc"><field name="LEDS">`
+        # . # . # 
+        . # # # . 
+        # . # . # 
+        . # # # . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="[hjY|7(6?|rlD9BA4@vu"><field name="LEDS">`
+        # . # . # 
+        . # # # . 
+        . . # . . 
+        . . # # # 
+        . # . . .
+        `</field><next><block type="device_show_leds" id="0#Tc-29]}UPkbC5u0n_c"><field name="LEDS">`
+        # . # . # 
+        . # # # . 
+        . . # . . 
+        # # # . . 
+        . . . # .
+        `</field></block></next></block></next></block></next></block></next></block></statement></block></next></block></next></block></statement></block></xml>
